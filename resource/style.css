@@ -23,3 +23,27 @@
     color: MediumAquamarine;
     padding-left: 15px;
 }
+
+.nav{
+  display: inline-block;
+  padding-right: 50px;
+}
+
+#world{
+  text-decoration: underline;
+  margin-right: 30px;
+}
+
+#us{
+  text-decoration: underline;
+  margin-right: 30px;
+}
+
+#tech{
+  text-decoration: underline;
+    margin-right: 30px;
+}
+
+#science{
+  text-decoration: underline;
+}
